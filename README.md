@@ -10,3 +10,5 @@ This is the place where I try to learn new things :rofl:
 - 💬 Ask me about anything related to Javascript/Flutter/Python or React/Express/MongoDB
 - 📫 How to reach me: [@DevStack06](https://twitter.com/DevStack06)
 - ⚡ Fun fact: I have my own YouTube [Channle](http://www.youtube.com/c/DevStack) :wink:
+
+**This is just a initial version of my profile :wink:**
