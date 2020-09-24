@@ -1,16 +1,12 @@
-### Hi there 👋
+<h3 align="center"> Hey there! I'm Balram Rathore <a href="http://www.youtube.com/c/DevStack"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
 
-<!--
-**DevStack06/DevStack06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A passionate developer from India</h3>
+<br>
+This is the place where I try to learn new things :rofl:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on FLutter/React related things :wink:
+- 🌱 I’m currently learning
+- 👯 I’m looking to collaborate on JavaScript or Flutter related project
+- 💬 Ask me about anything related to Javascript/Flutter/Python or React/Express/MongoDB
+- 📫 How to reach me: [@DevStack06](https://twitter.com/DevStack06)
+- ⚡ Fun fact: I have my own YouTube [Channle](http://www.youtube.com/c/DevStack) :wink:
