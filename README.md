@@ -4,7 +4,7 @@
 This is the place where I try to learn new things :grin:
 
 - 🔭 I’m currently working on FLutter/React related things :wink:
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning JavaScript and Deep Learning realted things
 - 👯 I’m looking to collaborate on JavaScript or Flutter related project
 - 💬 Ask me about anything related to Javascript/Flutter/Python or React/Express/MongoDB
 - 📫 How to reach me: [@DevStack06](https://twitter.com/DevStack06)
