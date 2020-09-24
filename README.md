@@ -1,5 +1,4 @@
-<h3 align="center"> Hey there! I'm Balram Rathore <a href="http://www.youtube.com/c/DevStack"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
-<hr>
+<h1 align="center"> Hey there! I'm Balram Rathore <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h1>
 <h3 align="center">A passionate developer from India</h3>
 <br>
 This is the place where I try to learn new things :grin:
