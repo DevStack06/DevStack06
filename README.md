@@ -10,4 +10,4 @@ Common get an inital briefing about me here! It's the place where I gotta learn 
 - 📫 Find me here: [@DevStack06](https://twitter.com/DevStack06)
 - ⚡ Fun fact: I have my own YouTube [Channel](http://www.youtube.com/c/DevStack) :wink:
 
-**This is just an initial version of my profile :rofl:**
+**This is just an initial version of my profile 😃
