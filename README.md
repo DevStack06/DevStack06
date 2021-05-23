@@ -1,4 +1,6 @@
-<h1 align="center"> Hey there! I'm Balram Rathore <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h1>
+<!-- <h1 align="center"> Hey there! I'm Balram Rathore <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h1> -->
+
+<img src="https://github.com/DevStack06/images/blob/master/My%20Video.gif" alt="side Image" align="center" width="1000" height="auto" />
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=DevStack06.DevStack06&color=00cf00)
 [![Instagram Badge](https://img.shields.io/badge/-DevStack06-yellow?style=flat-square&logo=instagram&logoColor=black&link=https://www.instagram.com/devstack06/)](https://www.instagram.com/devstack06/)
